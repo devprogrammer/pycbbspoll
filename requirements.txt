@@ -7,7 +7,7 @@ chardet==3.0.4
 Choco==1.0.5
 click==7.1.2
 colorama==0.4.3
-commonmark==0.8.1
+commonmark==0.9.1
 commonmarkextensions==0.0.5
 configparser==5.0.0
 confusable-homoglyphs==3.2.0
@@ -18,7 +18,7 @@ defusedxml==0.6.0
 diff-match-patch==20121119
 distlib==0.3.1
 dj-database-url==0.5.0
-Django~==1.11
+Django==2.0.7
 django-allauth==0.42.0
 django-anymail==7.2.1
 django-bootstrap4==2.2.0
