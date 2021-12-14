@@ -8,7 +8,7 @@ Choco==1.0.5
 click==7.1.2
 colorama==0.4.3
 commonmark==0.8.1
-commonmarkextensions~==0.1.0
+commonmarkextensions~==0.0.5
 configparser==5.0.0
 confusable-homoglyphs==3.2.0
 crayons==0.4.0
