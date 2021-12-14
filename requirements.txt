@@ -6,3 +6,4 @@ lxml==4.5.2
 unicodecsv==0.14.1
 selenium==3.141.0
 webdriver-manager==3.2.2
+gunicorn==20.0.4
